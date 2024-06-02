@@ -1,0 +1,44 @@
+@media(max-width:768px){
+    
+    .container {
+        height: auto;
+    }
+
+    .container .perfil .imagem-perfil{
+        margin-top: 1.3rem;
+        height: 4.5rem;
+        width: 4.5rem;
+    }
+
+    .container .perfil .nome{
+        font-weight: 600;
+        font-size: 16px;
+        margin-top: 1.6rem;
+    }
+    
+    .container .perfil .localizacao {
+        font-size: 10px;
+        font-weight: 400;
+        margin-top: 0.5rem;
+    }
+
+    .container .perfil .informacao{
+        font-size: 12px;
+        margin-top: 1.5rem;
+    }
+
+    .container .links {
+        margin-top: 0;
+    }
+    
+    .container .links li {
+        height: 2.3rem;
+        margin: 1rem;
+        border-radius: 10px;
+    }
+
+    .container .links li a {
+        font-size: 12px;
+        font-weight: 300;
+    }
+} 
